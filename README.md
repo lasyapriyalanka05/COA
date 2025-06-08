@@ -61,7 +61,7 @@ This repository was created for educational purposes, specifically for students 
 
 ## ✅ Author
 
-- **Name:** Satyavardhan (GitHub: `@yourusername`)
+- **Name:** (GitHub: `lasyapriyalanka05`)
 - **Repo:** [COA-main](https://github.com/lasyapriyalanka05/COA)
 
 ---
